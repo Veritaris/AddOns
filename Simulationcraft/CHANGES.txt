@@ -1,0 +1,10 @@
+lightweight tag 13d071deeabb5f9a0b05b5cce15879b682a4ae53 10.1.0-01
+Author:	Dave Hendler <sollaires@gmail.com>
+Date:	Tue Apr 25 11:18:59 2023 -0700
+
+commit 13d071deeabb5f9a0b05b5cce15879b682a4ae53
+Author: Dave Hendler <sollaires@gmail.com>
+Date:   Tue Apr 25 11:18:59 2023 -0700
+
+    Add crafting quality, bump to 10.1 release
+

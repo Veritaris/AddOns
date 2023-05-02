@@ -1,60 +1,50 @@
-# Version: 3.26
-2023/03/22 Released
+# Version: 3.28
+2023/04/24 Released
 ## ❗ Important
-- Adapt to World of Warcraft 10.0.7.
-- Adapt to ElvUI 13.28.
-## ✳️ New
-- Added a status bar texture WindTools Clean. Thanks Jodalo
+- Fixed an issue where some NPC sounds were being blocked.
 ## 💪 Improvement
-- [Game Bar] Fix the problem that it can't be loaded normally after the 10.0.7 update.
-- [Chat Text] Adapt to the latest ElvUI chat module.
+- [Chat Text] Code optimization.
+- [Instance Difficulty] Support for customizing all text.
+- [Extra Item Bar] Update item lists.
 
 ------
-# 版本: 3.26
-2023/03/22 发布
+# 版本: 3.28
+2023/04/24 发布
 ## ❗ 重要
-- 适配魔兽世界 10.0.7 版本.
-- 适配 ElvUI 13.28 版本.
-## ✳️ 新增
-- 新增了一个状态条材质 WindTools Clean. 感谢 Jodalo
+- 修复部分 NPC 声音被屏蔽的问题.
 ## 💪 改善
-- [游戏条] 修复 10.0.7 更新后无法正常加载的问题.
-- [聊天文字] 适配最新的 ElvUI 聊天模块.
+- [聊天文字] 优化代码.
+- [副本难度] 支持全部文字的自定义.
+- [额外物品条] 更新物品列表.
 
 ------
-# 版本: 3.26
-2023/03/22 發布
+# 版本: 3.28
+2023/04/24 發布
 ## ❗ 重要
-- 適配魔獸世界 10.0.7 版本.
-- 適配 ElvUI 13.28 版本.
-## ✳️ 新增
-- 新增了一個狀態條材質 WindTools Clean. 感謝 Jodalo
+- 修復部分 NPC 聲音被屏蔽的問題.
 ## 💪 改善
-- [遊戲條] 修復 10.0.7 更新後無法正常加載的問題.
-- [聊天文字] 適配最新的 ElvUI 聊天模組.
+- [聊天文字] 優化程式碼.
+- [副本難度] 支持全部文字的自訂.
+- [額外物品條] 更新物品列表.
 
 ------
-# 버전: 3.26
-2023/03/22 Released
+# 버전: 3.28
+2023/04/24 Released
 ## ❗ 중요 사항
-- Adapt to World of Warcraft 10.0.7.
-- Adapt to ElvUI 13.28.
-## ✳️ 신규 사항
-- Added a status bar texture WindTools Clean. Thanks Jodalo
+- 일부 NPC 소리가 차단되는 문제를 수정했습니다.
 ## 💪 개선 사항
-- [Game Bar] Fix the problem that it can't be loaded normally after the 10.0.7 update.
-- [Chat Text] Adapt to the latest ElvUI chat module.
+- [채팅 텍스트] 코드 최적화.
+- [인스턴스 난이도] 모든 텍스트 사용자 정의 지원.
+- [아이템 바] 아이템 목록 업데이트.
 
 ------
-# Версия: 3.26
-2023/03/22 Релиз
+# Версия: 3.28
+2023/04/24 Релиз
 ## ❗ Важные
-- Adapt to World of Warcraft 10.0.7.
-- Adapt to ElvUI 13.28.
-## ✳️ Новые
-- Added a status bar texture WindTools Clean. Thanks Jodalo
+- Исправлена проблема с блокировкой звуков некоторых NPC.
 ## 💪 Улучшения
-- [Game Bar] Fix the problem that it can't be loaded normally after the 10.0.7 update.
-- [Chat Text] Adapt to the latest ElvUI chat module.
+- [Текст чата] Оптимизация кода.
+- [Сложность подземелья] Поддержка настройки всех текстов.
+- [Панель дополнительных предметов] Обновление списка предметов.
 
 ------
